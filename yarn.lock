@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@wowts/ace_db-3.0@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@wowts/ace_db-3.0/-/ace_db-3.0-1.1.0.tgz#13f7b6e1d8daeda36cda47dbb012b648fdef82fd"
+"@wowts/ace_db-3.0@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@wowts/ace_db-3.0/-/ace_db-3.0-1.3.0.tgz#9a4f5c86987b98899a06822f9dac80e5fe34aae2"
+  integrity sha512-sKWZ2GsVT/1/valhLzwwdE2BWpPhmJJghO9B1HQ4VflGkyeDuWOjF2fTuraKyTXTWUxr4qI08z62k1EcVRiH7g==
   dependencies:
     "@wowts/lua" "^1.3.0"
     "@wowts/tslib" "^1.1.0"
